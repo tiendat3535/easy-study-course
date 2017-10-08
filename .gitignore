@@ -2,3 +2,4 @@
 easy-sc-frontend/.vscode/
 easy-sc-frontend/e2e/
 easy-sc-frontend/node/
+*.editorconfig
