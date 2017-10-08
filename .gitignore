@@ -1,10 +1,10 @@
 # compiled output
-/dist
-/tmp
-/out-tsc
+/easy-sc-frontend/dist
+/easy-sc-frontend/tmp
+/easy-sc-frontend/out-tsc
 
 # dependencies
-/node_modules
+/easy-sc-frontend/node_modules
 
 # IDEs and editors
 /.idea
@@ -32,8 +32,8 @@ testem.log
 /typings
 
 # e2e
-/e2e/*.js
-/e2e/*.map
+/easy-sc-frontend/e2e/*.js
+/easy-sc-frontend/e2e/*.map
 
 # System Files
 .DS_Store
