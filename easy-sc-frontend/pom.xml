@@ -42,7 +42,18 @@
                             <goal>install-node-and-npm</goal>
                         </goals>
                     </execution>
+					
+                    <execution>
+                        <id>npm install node_module</id>
+                        <goals>
+                            <goal>npm</goal>
+                        </goals>
 
+                        <configuration>
+                            <arguments>install</arguments>
+                        </configuration>
+                    </execution>
+					
                     <execution>
                         <id>npm run build</id>
                         <goals>

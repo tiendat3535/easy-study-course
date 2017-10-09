@@ -3,3 +3,5 @@ easy-sc-frontend/.vscode/
 easy-sc-frontend/e2e/
 easy-sc-frontend/node/
 *.editorconfig
+easy-sc-backend/target/
+easy-sc-frontend/target/
